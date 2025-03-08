@@ -18,3 +18,13 @@
 * [CSS Syntax](css/css-syntax.md)
 * [CSS Selectors](css/css-selectors.md)
 * [How to add CSS](css/how-to-add-css.md)
+
+## js
+
+* [Introduction](js/introduction.md)
+* [Where To](js/where-to.md)
+* [Output](js/output.md)
+* [Statements](js/statements.md)
+* [Syntax](js/syntax.md)
+* [Comments](js/comments.md)
+* [Variables](js/variables.md)
