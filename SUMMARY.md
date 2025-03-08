@@ -1,7 +1,5 @@
 # Table of contents
 
-* [swski](README.md)
-
 ## HTML
 
 * [HTML Introduction](html/html-introduction.md)
