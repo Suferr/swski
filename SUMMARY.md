@@ -1,5 +1,4 @@
 # Table of contents
-
 ## HTML
 
 * [HTML Introduction](html/html-introduction.md)
