@@ -1,8 +1,10 @@
 # Table of contents
 
+* [swski](README.md)
+
 ## HTML
 
-* [HTML Introduction](README.md)
+* [HTML Introduction](html/html-introduction.md)
 * [HTML Compilers/Editors](html/html-compilers-editors.md)
 * [HTML Basics](html/html-basics.md)
 * [HTML Elements](html/html-elements.md)
